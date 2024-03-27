@@ -1,5 +1,5 @@
 // Thay đổi nội dung búc thư ở đây
-var letterContent =" EM thích chị làm ny e nhe ❤
+var letterContent =" EM thích chị làm ny e nhe ❤❤
 // Tốc độ viết chữ. Số càng nhỏ tốc độ càng nhanh. 50 là tốc độ khá phù hợp
 durationWrite = 50 
 

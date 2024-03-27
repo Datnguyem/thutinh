@@ -40,4 +40,4 @@ cardValentine.addEventListener("click", () => {
             document.querySelector(".letterContent").innerHTML = ""
         }, 1000)
     }
-})
+})hahah
